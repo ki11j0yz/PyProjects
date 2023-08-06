@@ -27,4 +27,4 @@ def scrapeWikiArticle(url):
 
 	scrapeWikiArticle("https://en.wikipedia.org" + linkToScrape['href'])
 
-scrapeWikiArticle("https://en.wikipedia.org/wiki/Web_scraping")
+scrapeWikiArticle("https://en.wikipedia.org/wiki/Hacking")
